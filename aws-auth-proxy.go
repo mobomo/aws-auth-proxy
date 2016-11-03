@@ -12,7 +12,7 @@ import (
 	"net/url"
 
 	"github.com/coreos/pkg/flagutil"
-	"github.com/crowdmob/goamz/aws"
+	"github.com/mobomo/goamz/aws"
 )
 
 func main() {
